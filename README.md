@@ -33,7 +33,7 @@ Put files(Images and Annotations) to augment in `input/`.
 
 Run script.
 
-    pipenv run python augment.py
+    python augment.py
 
 Augmented images with annotations are generated in `output/`folder.
 If there is no bounding boxes in the image, Annotation files (`*.xml`) are moved to `empty/`.
