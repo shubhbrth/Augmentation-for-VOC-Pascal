@@ -1,0 +1,26 @@
+<annotation>
+    <folder>output</folder>
+    <filename>apple-03.jpg</filename>
+    <path>G:\Github Repo\Augmentation-for-VOC-Pascal\output\apple-03.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>960</width>
+        <height>640</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>apple</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>174</xmin>
+            <ymin>63</ymin>
+            <xmax>629</xmax>
+            <ymax>430</ymax>
+        </bndbox>
+    </object>
+</annotation>
